@@ -1,0 +1,4 @@
+Movie Recommender System - Individual Project
+
+GitHub repository: https://github.com/Jan2134/Recommender_System_Movies
+Live Streamlit app: https://recommendersystemmovies.streamlit.app/
