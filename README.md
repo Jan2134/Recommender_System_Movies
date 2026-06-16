@@ -9,7 +9,7 @@ dataset (610 users, 9,742 movies, 100,836 ratings). Seven recommenders are compa
 under a single offline evaluation protocol, with a Streamlit app for interactive,
 qualitative exploration.
 
-**Live demo:** _add your Streamlit Cloud URL here once deployed_
+**Live demo:** https://recommendersystemmovies.streamlit.app/
 
 ## Models implemented
 
