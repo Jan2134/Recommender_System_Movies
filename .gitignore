@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Full ml-32m dump (916MB) - not used by the project, never committed
+ml-32m/
+
+# Generated/processed data
+data/processed/
+
+# ml-latest-small (data/raw/ml-latest-small/, ~3MB) IS committed:
+# Streamlit Cloud only gets what's in the repo, there's no download step at deploy time.
+
+# Generated results (regenerate via `python main.py` / `python run_experiments.py`)
+results/*.csv
+results/figures/*.png
+
+# Reference materials (course PDF + professor's placeholder template)
+reference/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
